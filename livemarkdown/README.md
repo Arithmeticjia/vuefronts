@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## About
+
 ## Build Setup
 
 ``` bash
